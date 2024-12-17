@@ -5,7 +5,7 @@ Created on Sun Feb  4 17:50:56 2024
 @author: Lynn MACLYNN
 """
 
-print('hello, it is my first code in anaconda')
+print('hello, it is my first code in anaconda thank you guys')
 
 f = lambda x: x**3 - 2
 a = 3
